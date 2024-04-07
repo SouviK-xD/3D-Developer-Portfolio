@@ -19,6 +19,7 @@ import {
   starbucks,
   tesla,
   shopify,
+  cu,
   carrent,
   jobit,
   tripguide,
@@ -46,7 +47,7 @@ const services = [
     icon: web,
   },
   {
-    title: "React Native Developer",
+    title: "Python Developer",
     icon: mobile,
   },
   {
@@ -54,7 +55,7 @@ const services = [
     icon: backend,
   },
   {
-    title: "Content Creator",
+    title: "Leetcoder",
     icon: creator,
   },
 ];
@@ -116,15 +117,14 @@ const technologies = [
 
 const experiences = [
   {
-    title: "React.js Developer",
-    company_name: "Starbucks",
+    title: "Chandigarh University",
+    company_name: "Post Graduation",
     icon: starbucks,
     iconBg: "#383E56",
-    date: "March 2020 - April 2021",
+    date: "August 2022 - Current",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
+      "Pursuing Master of Computer Applications.",
+      "Secured 8 CGPA in first semester.",
       "Participating in code reviews and providing constructive feedback to other developers.",
     ],
   },
